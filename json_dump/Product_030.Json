@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P030",
+    "name": "Cork Yoga Wheel"
+  },
+  "category": "fitness",
+  "price": "27.25",
+  "metadata": {
+    "color": "brown",
+    "stock": 40,
+    "created": "2025-02-06"
+  }
+}

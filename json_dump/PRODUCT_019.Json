@@ -1,0 +1,11 @@
+{
+  "product_id": "P019",
+  "name": "Notebook Pack",
+  "category": "office",
+  "price": 12.0,
+  "metadata": {
+    "color": "assorted",
+    "stock": 300,
+    "created": "2025-01-25"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P026",
+    "name": "Foam Roller"
+  },
+  "category": "fitness",
+  "price": 18.0,
+  "metadata": {
+    "color": "gray",
+    "stock": 90,
+    "created": "2025-02-03"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P022",
+    "name": "Stainless Straw Set"
+  },
+  "category": "kitchen",
+  "price": 6.5,
+  "metadata": {
+    "color": "silver",
+    "stock": 400,
+    "created": "2025-01-28"
+  }
+}

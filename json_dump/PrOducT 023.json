@@ -1,0 +1,11 @@
+{
+  "product_id": "P023",
+  "name": "Noise Cancelling Earbuds",
+  "category": "electronics",
+  "price": 59.99,
+  "metadata": {
+    "color": "white",
+    "stock": 140,
+    "created_at": "2025-02-01T10:00:00Z"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "product_id": "P035",
+  "name": "Pet Brush",
+  "category": "pets",
+  "price": 11.0,
+  "metadata": {
+    "color": "blue",
+    "stock": 95,
+    "created_at": "2025-02-10T09:45:00Z"
+  }
+}

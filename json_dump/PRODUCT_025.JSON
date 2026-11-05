@@ -1,0 +1,11 @@
+{
+  "product_id": "P025",
+  "name": "Desk Organizer",
+  "category": "office",
+  "price": 12.75,
+  "metadata": {
+    "color": "black",
+    "stock": 220,
+    "created_at": "2025-02-03T09:30:00Z"
+  }
+}

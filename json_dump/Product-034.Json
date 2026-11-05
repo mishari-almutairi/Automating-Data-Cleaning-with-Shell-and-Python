@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P034",
+    "name": "Garden Trowel"
+  },
+  "category": "outdoors",
+  "price": 6.25,
+  "metadata": {
+    "color": "green",
+    "stock": 180,
+    "created": "2025-02-09"
+  }
+}

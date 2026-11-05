@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P018",
+    "name": "Wireless Charger"
+  },
+  "category": "electronics",
+  "price": "18.75",
+  "metadata": {
+    "color": "black",
+    "stock": 210,
+    "created_at": "2025-01-24T09:00:00Z"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "product_id": "P015",
+  "name": "Desk Lamp",
+  "category": "home",
+  "price": "24.99",
+  "metadata": {
+    "color": "white",
+    "stock": "150",
+    "created_at": "2025-01-22T18:30:00Z"
+  }
+}

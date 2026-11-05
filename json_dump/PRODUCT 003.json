@@ -1,0 +1,9 @@
+{
+  "product_id": "P003",
+  "name": "Office Chair",
+  "category": "furniture",
+  "price": "129.00",
+  "metadata": {
+    "stock": 15
+  }
+}

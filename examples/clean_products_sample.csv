@@ -1,0 +1,4 @@
+product_id,name,category,price,color,stock,created_at
+DEMO-001,Desk Lamp,home,29.99,white,12,2026-01-10T09:00:00Z
+DEMO-002,Notebook,stationery,4.5,blue,0,2026-01-11T10:30:00Z
+DEMO-003,Water Bottle,accessories,15.0,green,8,2026-01-12T14:15:00Z

@@ -1,0 +1,11 @@
+{
+  "product_id": "P041",
+  "name": "Compact Umbrella",
+  "category": "travel",
+  "price": 13.25,
+  "metadata": {
+    "color": "purple",
+    "stock": 120,
+    "created_at": "2025-02-15T08:40:00Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P024",
+    "name": "Camping Lantern"
+  },
+  "category": "outdoors",
+  "price": "24.50",
+  "metadata": {
+    "color": "yellow",
+    "stock": 65,
+    "created": "2025-02-02"
+  }
+}

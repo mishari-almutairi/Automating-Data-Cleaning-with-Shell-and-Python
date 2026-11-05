@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P016",
+    "name": "Yoga Blocks"
+  },
+  "category": "fitness",
+  "price": 14.0,
+  "metadata": {
+    "color": "tan",
+    "stock": 200,
+    "created": "2025-01-22"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P020",
+    "name": "Running Socks"
+  },
+  "category": "apparel",
+  "price": 9.5,
+  "metadata": {
+    "color": "gray",
+    "stock": "500",
+    "created_at": "2025-01-26T06:00:00Z"
+  }
+}

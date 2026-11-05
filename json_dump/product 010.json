@@ -1,0 +1,7 @@
+{
+  "product_id":"P010",
+  "name":"Phone Case",
+  "category":"electronics",
+  "price":"9.99",
+  "metadata":{"color":"clear","stock":"500","created":"2025-01-18"}
+}

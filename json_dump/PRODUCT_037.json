@@ -1,0 +1,11 @@
+{
+  "product_id": "P037",
+  "name": "Wall Clock",
+  "category": "home",
+  "price": 14.75,
+  "metadata": {
+    "color": "white",
+    "stock": 70,
+    "created_at": "2025-02-12T14:30:00Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P032",
+    "name": "Travel Pillow"
+  },
+  "category": "travel",
+  "price": 15.5,
+  "metadata": {
+    "color": "navy",
+    "stock": 110,
+    "created": "2025-02-08"
+  }
+}

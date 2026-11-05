@@ -1,0 +1,11 @@
+{
+  "product_id": "P027",
+  "name": "Electric Kettle",
+  "category": "kitchen",
+  "price": "34.95",
+  "metadata": {
+    "color": "silver",
+    "stock": "55",
+    "created_at": "2025-02-04T07:10:00Z"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "product_id": "P005",
+  "name": "Laptop Bag",
+  "category": "accessories",
+  "price": 45.00,
+  "metadata": {
+    "color": "gray",
+    "stock": 70
+}

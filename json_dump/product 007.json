@@ -1,0 +1,7 @@
+{
+  "product_id": "P007",
+  "name": "Travel Mug ",
+  "category": "kitchen",
+  "price": "12.50",
+  "metadata": { "color": "silver","stock":"200","created_at":"2025-01-15T07:00:00Z" }
+}

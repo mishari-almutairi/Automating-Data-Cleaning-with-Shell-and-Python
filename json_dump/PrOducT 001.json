@@ -1,0 +1,11 @@
+{
+  "product_id": "P001",
+  "name": "Running Shoes",
+  "category": "footwear",
+  "price": 89.99,
+  "metadata": {
+    "color": "blue",
+    "stock": 34,
+    "created_at": "2025-01-10T08:30:00Z"
+  }
+}

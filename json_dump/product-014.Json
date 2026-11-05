@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P014",
+    "name": "Hiking Backpack"
+  },
+  "category": "outdoors",
+  "price": 74.50,
+  "metadata": {
+    "color": "olive",
+    "stock": 42,
+    "created": "2025-01-21"
+  }
+}

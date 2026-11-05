@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P004",
+    "name": "Yoga Mat"
+  },
+  "category": "fitness",
+  "price": 29.99,
+  "metadata": {
+    "color": "green",
+    "stock": 50,
+    "created": "2025-01-12"
+  }
+}

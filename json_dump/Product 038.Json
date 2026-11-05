@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P038",
+    "name": "Silicone Baking Mat"
+  },
+  "category": "kitchen",
+  "price": 8.5,
+  "metadata": {
+    "color": "red",
+    "stock": 260,
+    "created": "2025-02-12"
+  }
+}

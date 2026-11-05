@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P042",
+    "name": "Phone Stand"
+  },
+  "category": "electronics",
+  "price": 7.0,
+  "metadata": {
+    "color": "clear",
+    "stock": 200,
+    "created": "2025-02-16"
+  }
+}

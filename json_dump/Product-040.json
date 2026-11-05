@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P040",
+    "name": "Bike Repair Kit"
+  },
+  "category": "outdoors",
+  "price": 21.0,
+  "metadata": {
+    "color": "black",
+    "stock": 55,
+    "created": "2025-02-14"
+  }
+}

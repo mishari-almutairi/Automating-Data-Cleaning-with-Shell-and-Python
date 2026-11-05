@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P028",
+    "name": "Trail Hat"
+  },
+  "category": "apparel",
+  "price": 16.5,
+  "metadata": {
+    "color": "tan",
+    "stock": 130,
+    "created": "2025-02-05"
+  }
+}

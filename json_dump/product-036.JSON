@@ -1,0 +1,13 @@
+{
+  "product": {
+    "id": "P036",
+    "name": "Board Game Set"
+  },
+  "category": "toys",
+  "price": "29.95",
+  "metadata": {
+    "color": "assorted",
+    "stock": 45,
+    "created": "2025-02-11"
+  }
+}

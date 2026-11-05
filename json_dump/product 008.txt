@@ -1,0 +1,6 @@
+{
+  "product": { "id":"P008", "name":"Desk Lamp" },
+  "category":"home",
+  "price":"35",
+  "metadata": {"color":"white","stock": 45, "created":"2025-01-16"}
+}
